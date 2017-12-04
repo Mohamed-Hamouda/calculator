@@ -4,7 +4,7 @@ public class Calculator {
 	
 	public static double Addition (double x, double y)
 	{
-		return x+y;
+		return x+y+10;
 	}
 	
 	public static double Subtract (double x, double y)
